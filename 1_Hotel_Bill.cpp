@@ -105,3 +105,27 @@ bill.displayBill();
 
 return 0; // End of program
 }
+//OUTPUT :
+
+// Enter Table Number: 5
+// Enter Customer Name: Amit Sharma
+// Enter Customer Contact Number: 9876543210
+
+// Enter Number of Items Ordered: 3
+
+// Item 1 Quantity: 2
+// Item 1 Price: 250
+
+// Item 2 Quantity: 1
+// Item 2 Price: 600
+
+// Item 3 Quantity: 3
+// Item 3 Price: 300
+
+// ---------- HOTEL BILL ----------
+// Table No : 5
+// Customer Name : Amit Sharma
+// Contact Number : 9876543210
+// Total Amount : Rs. 1850.00
+// Discount : Rs. 185.00
+// Payable Amount : Rs. 1665.00
