@@ -99,3 +99,13 @@ s2->area(); // Calls Circle's area()
 return 0;
 
 }
+
+// OUTPUT
+// --- Compile-Time Polymorphism (Function Overloading) ---
+// Sum of 2 integers: 30
+// Sum of 3 integers: 30
+// Sum of 2 floats: 6
+
+// --- Run-Time Polymorphism (Function Overriding) ---
+// Area of rectangle = 50
+// Area of circle = 153.938
