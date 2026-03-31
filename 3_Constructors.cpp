@@ -72,3 +72,22 @@ p3.display(); // Call display function
 
 return 0; // End of program
 }
+// Output:
+
+// --- Default Constructor ---
+// Patient ID : 0
+// Patient Name : Not Assigned
+// Billing Amount : Rs. 0
+// Appointment Date : Not Fixed
+
+// --- Parameterized Constructor ---
+// Patient ID : 101
+// Patient Name : Rahul Patil
+// Billing Amount : Rs. 3500.5
+// Appointment Date : 15-02-2026
+
+// --- Copy Constructor ---
+// Patient ID : 101
+// Patient Name : Rahul Patil
+// Billing Amount : Rs. 3500.5
+// Appointment Date : 15-02-2026
