@@ -40,3 +40,8 @@ showData(obj);
 
 return 0; // End of program
 }
+
+// OUTPUT
+// Value of a = 10
+// Value of b = 20
+// Sum = 30
