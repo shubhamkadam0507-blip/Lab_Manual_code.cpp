@@ -31,3 +31,6 @@ Student s3; // Create third object
 Student::showCount();
 return 0; // End of program
 }
+
+// Output:
+// Total number of students: 3
