@@ -39,12 +39,16 @@ cout << "After swap: c1 = " << c1 << ", c2 = " << c2 << endl;
 return 0;
 }
 
-// OUTPUT 1 (Valid Division)
-// Enter numerator: 10
-// Enter denominator: 2
-// Result = 5
+// OUTPUT
+// --- Swapping Integers ---
+// Before swap: x = 10, y = 20
+// After swap: x = 20, y = 10
 
-// OUTPUT 2 (Division by Zero)
-// Enter numerator: 15
-// Enter denominator: 0
-// Error: Division by zero is not allowed!
+// --- Swapping Floats ---
+// Before swap: p = 5.5, q = 9.8
+
+// After swap: p = 9.8, q = 5.5
+
+// --- Swapping Characters ---
+// Before swap: c1 = A, c2 = Z
+// After swap: c1 = Z, c2 = A
