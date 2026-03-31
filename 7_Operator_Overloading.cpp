@@ -90,3 +90,27 @@ cout << "Product of complex numbers: " << product << endl;
 
 return 0;
 }
+
+// OUTPUT
+// --- Input first complex number ---
+// Enter real part: 3
+// Enter imaginary part: 2
+
+// --- Input second complex number ---
+// Enter real part: 1
+// Enter imaginary part: 4
+
+// Sum of complex numbers: 4 + 6i
+// Product of complex numbers: -5 + 14i
+
+// --- Input first complex number ---
+// Enter real part: 3
+// Enter imaginary part: 2
+
+// --- Input second complex number ---
+// Enter real part: 1
+
+// Enter imaginary part: 4
+
+// Sum of complex numbers: 4 + 6i
+// Product of complex numbers: -5 + 14i
