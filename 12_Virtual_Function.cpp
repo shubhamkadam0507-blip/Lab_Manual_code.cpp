@@ -79,3 +79,10 @@ s2->area(); // Calls Circle's area()
 return 0;
 
 }
+
+// OUTPUT
+
+// --- Virtual Function Demonstration ---
+
+// Area of rectangle = 50
+// Area of circle = 153.938
