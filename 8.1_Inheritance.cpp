@@ -75,3 +75,20 @@ student.display();
 
 return 0;
 }
+
+// OUTPUT :
+// Enter Roll Number: 101
+// Enter Name: Rahul Patil
+// Enter marks of subject 1: 78
+
+// Enter marks of subject 2: 82
+// Enter marks of subject 3: 90
+// Enter marks of subject 4: 75
+// Enter marks of subject 5: 85
+
+// --- Student Information ---
+// Roll Number: 101
+// Name : Rahul Patil
+// Marks : 78 82 90 75 85
+// Total Marks: 410
+// Percentage : 82%
