@@ -30,3 +30,13 @@ cout << msg << endl;
 
 return 0;
 }
+
+// OUTPUT 1 (Valid Division)
+// Enter numerator: 10
+// Enter denominator: 2
+// Result = 5
+
+// OUTPUT 2 (Division by Zero)
+// Enter numerator: 15
+// Enter denominator: 0
+// Error: Division by zero is not allowed!
