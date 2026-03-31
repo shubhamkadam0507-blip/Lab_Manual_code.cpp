@@ -87,3 +87,35 @@ s[i].display(); // Call function to display result
 
 return 0; // End of program
 }
+// Output:
+// Enter number of students: 2
+
+// --- Student 1 ---
+// Enter Roll Number: 1
+// Enter name: Rahul Patil
+// Enter Division: A
+// Enter number of subjects: 3
+// Enter marks of subject 1: 78
+// Enter marks of subject 2: 85
+// Enter marks of subject 3: 90
+
+// Roll Number : 1
+// Name: Rahul Patil
+// Division: A
+// Total Marks : 253
+// Percentage : 84.3333%
+
+// --- Student 2 ---
+// Enter Roll Number: 2
+// Enter name: Sneha Kulkarni
+// Enter Division: B
+// Enter number of subjects: 3
+// Enter marks of subject 1: 65
+// Enter marks of subject 2: 72
+// Enter marks of subject 3: 80
+
+// Roll Number : 2
+// Name: Sneha Kulkarni
+// Division: B
+// Total Marks : 217
+// Percentage : 72.3333%
