@@ -62,3 +62,11 @@ cout << "\nDivision = " << calc.divide();
 
 return 0; // End of program
 }
+
+// Output :
+// Enter two numbers: 20 10
+
+// Addition = 30
+// Subtraction = 10
+// Multiplication = 200
+// Division = 2
