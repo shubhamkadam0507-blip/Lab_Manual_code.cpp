@@ -87,3 +87,15 @@ circ.perimeter();
 
 return 0;
 }
+
+// OUTPUT
+// --- Rectangle ---
+// Enter length of rectangle: 10
+// Enter width of rectangle: 5
+// Area of rectangle = 50
+// Perimeter of rectangle = 30
+
+// --- Circle ---
+// Enter radius of circle: 7
+// Area of circle = 153.938
+// Perimeter (Circumference) of circle = 43.9824
